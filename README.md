@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **javascript,python**
+- 💬 Ask me about **HTML,CSS,Javascript,Python**
 
 - 📫 How to reach me **debarshimullick8@yahoo.com**
 
@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debarshi11&show_icons=true&locale=en&layout=compact" alt="debarshi11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debarshi11&show_icons=true&locale=en" alt="debarshi11" /></p>
-
