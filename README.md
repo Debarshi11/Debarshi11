@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I think I am quite dedicated to the work I do**
 
 <h3 align="left">Connect with me:</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/debarshi-mullick-150842208/))
 
 <h3 align="left">Languages and Tools:</h3>
