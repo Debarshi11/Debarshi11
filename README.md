@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)]([https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/debarshi-mullick-150842208/))
+[![Linkedin Badge](https://img.shields.io/badge/-Debarshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debarshi-mullick-150842208/)]([https://www.linkedin.com/in/debarshi-mullick-150842208/](https://www.linkedin.com/in/debarshi-mullick-150842208/))
 [![Instagram Badge](https://img.shields.io/badge/-neko_sama1234-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neko_sama1234/)](https://instagram.com/neko_sama1234)
 
 <h3 align="left">Languages and Tools:</h3>
