@@ -4,13 +4,13 @@
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400>
 </br>
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarshi11&label=Profile%20views&color=0e75b6&style=flat" alt="debarshi11" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **CyberSecurity**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Python**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **debarshimullick8@yahoo.com**
 
