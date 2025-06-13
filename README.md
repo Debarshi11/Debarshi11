@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **debarshimullick8@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cosRQ1modd0OZym0yA8cPzMxjRH1o6u_/view?usp=drive_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QVJ4XMfYCw8H7yZw18S83hPDeWaPduUU/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am quite dedicated to the work I do**
 
